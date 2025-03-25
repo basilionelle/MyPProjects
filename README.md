@@ -38,6 +38,27 @@ A powerful command-line budget tracking tool for managing expenses and generatin
 
 </div>
 
+### [🗯️ verbot](./verbot)
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![argparse](https://img.shields.io/badge/argparse-CLI-black?style=flat-square&logo=python)](https://docs.python.org/3/library/argparse.html)
+[![JSON](https://img.shields.io/badge/JSON-Data-lightgrey?style=flat-square&logo=json)]()
+
+A command-line tool for generating verbal content based on context or keyword prompts. Built for testing and research purposes.
+
+**Key Features:**
+- 🎲 Random content generation
+- 🎯 Keyword-based customization
+- 🌡️ Multiple intensity levels
+- 🏷️ Category filtering
+- 💾 Export capability
+
+[View Project →](./verbot)
+
+</div>
+
 ---
 
 ## 🎯 Technical Skills
