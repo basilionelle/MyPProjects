@@ -59,6 +59,29 @@ A command-line tool for generating verbal content based on context or keyword pr
 
 </div>
 
+### [📊 Statistical Analysis Toolkit](./stat_toolkit)
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-2.x-013243?style=flat-square&logo=numpy)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.x-8CAAE6?style=flat-square&logo=scipy)](https://scipy.org/)
+[![Pytest](https://img.shields.io/badge/Pytest-Testing-green?style=flat-square&logo=pytest)](https://pytest.org/)
+
+A comprehensive Python library for statistical analysis and data science, providing robust data analysis capabilities.
+
+**Key Features:**
+- 📈 Descriptive Statistics
+- 🎲 Probability Distributions
+- 🔄 Correlation Analysis
+- 📊 Regression Analysis
+- ⚡ Hypothesis Testing
+- 🎨 Data Visualization
+
+[View Project →](./stat_toolkit)
+
+</div>
+
 ---
 
 ## 🎯 Technical Skills
@@ -68,7 +91,7 @@ A command-line tool for generating verbal content based on context or keyword pr
 | Category | Skills |
 |:--------:|--------|
 | **Core** | ![Python](https://img.shields.io/badge/Python-Advanced-success?style=flat-square&logo=python) |
-| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue?style=flat-square&logo=pandas) ![CSV](https://img.shields.io/badge/Data_Processing-Experienced-blue?style=flat-square) |
+| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Advanced-success?style=flat-square&logo=numpy) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Experienced-blue?style=flat-square) |
 | **Development** | ![CLI](https://img.shields.io/badge/CLI_Development-⭐⭐⭐⭐-yellow?style=flat-square) ![Documentation](https://img.shields.io/badge/Documentation-⭐⭐⭐⭐-yellow?style=flat-square) |
 
 </div>
